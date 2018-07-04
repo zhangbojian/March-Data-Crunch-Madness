@@ -22,7 +22,14 @@ We have two perspectives to prove that it is a useful variable in our model. Fir
 Team_win%=team_adjoe^11.5/(team_adjoe^11.5+team_adjde^11.5)
 
 Then we do some descriptive analysis about APR.
-![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/1.jpg)
+![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/Picture1.jpg)
+what graph means: This map shows all the NCAA university locations, their Winning Probability(based on Pythagorean theorem) and their Academic Progress Rate
+what insight: Winning Probability have strong connection with Academic Progress Rate.
+Implication: university from East coast have more green points, which means those universities with green points have higher Academic Progress Rate; The size of the point means the winning probability of the university, and we can see from the map that most of the green points size are bigger than the size of red points.
+![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/Picture2.jpg)
+What graph means: This map lists all the NCAA champions From 2004-2015, and the map shows their locations, Winning Probability (based on Pythagorean theorem) and their Academic Progress Rate.
+What insight: Winning Probability have strong connection with Academic Progress Rate.
+Implication: All the NCAA champions have high Academic Progress Rate and also have high Winning Probability, which means APR would be a good predictor to predict the probability of the game.
 
 Feature selection
 
