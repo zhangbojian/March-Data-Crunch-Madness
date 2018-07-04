@@ -61,6 +61,7 @@ Model evaluation
 
 When the ability to predict negative result incorrectly is low, the model has a high possibility to predict team 1 win correctly.
 The area between the curve and diagonal line reflects the accuracy of the ensemble model, which is most stable and comparatively more precise.
+
 ![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/Picture6.jpg)
 ![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/Picture10.jpg)
 
