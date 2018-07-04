@@ -41,6 +41,8 @@ In the feature selection part, we choose a variety of approaches: principal comp
 ![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/Picture7.jpg)
 
 Correlation matrix of selected variables:
+
+
 ![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/Picture9.jpg)
 
 Machine learning
@@ -49,6 +51,7 @@ We test the performance of 8 models
 Logistic Regression, Naïve Bayes, SVM, Gradient Boosting Classifier, Random Forest, Neural Networks, Decision Tree, KNN
 and compare testing data MSE of each model
 ![image](https://github.com/zhangbojian/march-data-crunch-madness/blob/master/Picture5.jpg)
+
 We choose the first four algorithms in our ensemble model, because they have least testing data MSE.
 Soft voting ensemble is used together with GridSearch in order to tune the hyperparameters of the individual estimators. In this case, we set range of number of estimators of Gradient boosting from 1000 to 2000.
 Naive weighting formula:
