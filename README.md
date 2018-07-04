@@ -66,9 +66,11 @@ The area between the curve and diagonal line reflects the accuracy of the ensemb
 
 Conclusion and implementation:
 
-Applying as fewer variables as possible to explain the impact of each competition and build a model as simple as possible to predict the results is effective.
-APR data is a new point of view which makes contribution to prediction.
-In our model, seed, APR, rpi and shooting percentage are crucial to victory. This result may give a reference to basketball teams to improve their performance.
+1.Applying as fewer variables as possible to explain the impact of each competition and build a model as simple as possible to predict the results is effective.
+
+2.APR data is a new point of view which makes contribution to prediction.
+
+3.In our model, seed, APR, rpi and shooting percentage are crucial to victory. This result may give a reference to basketball teams to improve their performance.
 
 
 
